@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artemskr
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Soliidity
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on blockchain development
 - 📫 How to reach me artemskr@ g m a i l. com
 
